@@ -1,0 +1,2 @@
+# pischool
+RaspberryPi Based School
